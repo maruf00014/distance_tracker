@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234755673423",
+    "firebase_url": "https://distancetracker-62ccb.firebaseio.com",
+    "project_id": "distancetracker-62ccb",
+    "storage_bucket": "distancetracker-62ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234755673423:android:a97b9c59d8cab9e83b093a",
+        "android_client_info": {
+          "package_name": "com.aalmaruf.distance_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234755673423-2ohphe46a2arevhro7nhidak16k12tve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnSzp27pq8YUUuwcLovZYtZuQSP4jfqHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234755673423-2ohphe46a2arevhro7nhidak16k12tve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
